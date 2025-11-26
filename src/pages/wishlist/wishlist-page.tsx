@@ -63,7 +63,7 @@ const presents: Array<WishlistItem> = [
   {
     id: crypto.randomUUID(),
     name: "Navy Merino Long Sleeve Polo (denk maat: M) Moet eventueel passen of het goed zit :)",
-    imgUrl: "https://cdn.suitsupply.com/image/upload/b_rgb:efefef,bo_300px_solid_rgb:efefef,c_pad,w_2600/b_rgb:efefef,c_pad,dpr_1,w_2010,h_3618,f_auto,q_auto,fl_progressive/products/knitwear/default/Winter/SW1681_1.jpg",
+    imgUrl: "https://cdn.suitsupply.com/image/upload/b_rgb:efefef,bo_500px_solid_rgb:efefef,c_pad,w_2600/b_rgb:efefef,c_pad,dpr_1,w_1690,h_2338,f_auto,q_auto,fl_progressive/products/knitwear/default/SW1681_25.jpg",
     link: "https://suitsupply.com/en-nl/men/knitwear/navy-merino-long-sleeve-polo/SW1681.html",
   },
   {
