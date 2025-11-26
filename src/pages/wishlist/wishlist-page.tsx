@@ -3,21 +3,6 @@ import Snowfall from "react-snowfall";
 import Card from "../../components/card";
 
 const presents: Array<WishlistItem> = [
-  // {
-  //   id: crypto.randomUUID(),
-  //   name: "A.N. Other OR/18 (50 ML)",
-  //   imgUrl:
-  //     "https://cdn-1.debijenkorf.nl/web_detail_2x/a-n-other-or-2018-parfum/?reference=064/080/0640809002800000_pro_flt_frt_01_1108_1528_6272906.jpg",
-  //   link: "https://an-other.com/shop/or2018/",
-  //   favorite: true,
-  // },
-  // {
-  //   id: crypto.randomUUID(),
-  //   name: "Missoma - Oorbellen",
-  //   imgUrl:
-  //     "https://www.missoma.com/cdn/shop/products/dome-gemstone-mini-hoop-earring-set-layering-sets-missoma-18ct-gold-plated-vermeil-568535.jpg?v=1666116452&width=1400",
-  //   link: "https://www.missoma.com/products/dome-and-gemstone-mini-hoop-earring-set",
-  // },
   {
     id: crypto.randomUUID(),
     name: "Reebok club c85 off-white (37)",
@@ -323,8 +308,7 @@ const WishlistPage = () => {
       />
       <div className="page">
         <div className="title-container">
-          <h1>Christmas Wishlist</h1>
-          <p>By Chelsea</p>
+          <h1>Ronan's Christmas Wishlist</h1>
         </div>
         <div className="cards-container">
           {presents.map((present, index) => (
