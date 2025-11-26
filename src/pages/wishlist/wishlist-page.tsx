@@ -19,8 +19,8 @@ const presents: Array<WishlistItem> = [
   },
   {
     id: crypto.randomUUID(),
-    name: "ARC'TERYS Muts",
-    imgUrl: "https://media.s-bol.com/PymqLJjm0pGn/lOMklyl/541x840.jpg",
+    name: "ARC'TERYX Muts",
+    imgUrl: "https://www.behindthepines.eu/cdn/shop/files/Arcteryx-Grotto-Toque-Black-Void-beanie-1_720x.jpg?v=1762421444",
     link: "-	Arc’teryx Grotto Toque Black void",
   },
   // {
