@@ -97,6 +97,36 @@ const presents: Array<WishlistItem> = [
     imgUrl: "https://nl.yeti.com/cdn/shop/files/21071200017_70000000483_21071200025_Drinkware_BottleChug_26oz_SS_Studio_Back.png?v=1750778363&width=1346",
     link: "https://nl.yeti.com/products/rambler-26-bottle-with-chug-cap-stainless-steel",
   },
+    {
+    id: crypto.randomUUID(),
+    name: "Ikea lamp FADO 25cm",
+    imgUrl: "https://www.ikea.com/nl/nl/images/products/fado-tafellamp-wit__0606976_pe682645_s5.jpg?f=xl",
+    link: "https://www.ikea.com/nl/nl/p/fado-tafellamp-wit-80096372/",
+  },
+    {
+    id: crypto.randomUUID(),
+    name: "(Blackfriday) Philips HUE E27 - 2+1 gratis ",
+    imgUrl: "https://media.s-bol.com/q9xq93J9R1Ek/zrkzgZ/550x482.jpg",
+    link: "https://www.bol.com/nl/nl/p/philips-hue-standaardlamp-e27-lichtbron-wit-en-gekleurd-licht-1-pack-1100lm-bluetooth/9300000046063484/?cid=1764173879053-8722908439472",
+  },
+    // {
+  //   id: crypto.randomUUID(),
+  //   name: "",
+  //   imgUrl: "",
+  //   link: "",
+  // },
+  // {
+  //   id: crypto.randomUUID(),
+  //   name: "",
+  //   imgUrl: "",
+  //   link: "",
+  // },
+    // {
+  //   id: crypto.randomUUID(),
+  //   name: "",
+  //   imgUrl: "",
+  //   link: "",
+  // },
     // {
   //   id: crypto.randomUUID(),
   //   name: "",
