@@ -85,18 +85,18 @@ const presents: Array<WishlistItem> = [
     link: "https://www.dubplate.be/nl/vinylplaat-bestellen/coupon",
     favorite: true,
   },
-    // {
-  //   id: crypto.randomUUID(),
-  //   name: "",
-  //   imgUrl: "",
-  //   link: "",
-  // },
-    // {
-  //   id: crypto.randomUUID(),
-  //   name: "",
-  //   imgUrl: "",
-  //   link: "",
-  // },
+    {
+    id: crypto.randomUUID(),
+    name: "Wijde Joggingbroek Uniqlo zwart, S",
+    imgUrl: "https://image.uniqlo.com/UQ/ST3/eu/imagesgoods/471809/item/eugoods_09_471809_3x4.jpg?width=400",
+    link: "https://www.uniqlo.com/nl/nl/products/E471809-000/00?colorDisplayCode=09&sizeDisplayCode=004",
+  },
+    {
+    id: crypto.randomUUID(),
+    name: "Yeti Rambler - Stainless Steel 26 Oz.",
+    imgUrl: "https://nl.yeti.com/cdn/shop/files/21071200017_70000000483_21071200025_Drinkware_BottleChug_26oz_SS_Studio_Back.png?v=1750778363&width=1346",
+    link: "https://nl.yeti.com/products/rambler-26-bottle-with-chug-cap-stainless-steel",
+  },
     // {
   //   id: crypto.randomUUID(),
   //   name: "",
