@@ -72,18 +72,19 @@ const presents: Array<WishlistItem> = [
     imgUrl: "https://media.douglas.nl/medias/mhiOo3202936-0-dgl-NL.jpg?context=bWFzdGVyfGltYWdlc3w1NDE1NXxpbWFnZS9qcGVnfGFHUXlMMmhtTkM4Mk5EUXpNRGsxTXpJd01UWTVOQzl0YUdsUGJ6TXlNREk1TXpaZk1GOWtaMnd0VGt3dWFuQm58MDA0NzgwMDEzM2I2N2IyYWMxNjAxZDFmNTM0ODY5YWVjNTVjYjE4ZGU4NWI5N2NmM2MyZWE0YmJiNmEzMDQxMg&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=775",
     link: "https://www.douglas.nl/nl/p/5010955375",
   },
-    // {
-  //   id: crypto.randomUUID(),
-  //   name: "",
-  //   imgUrl: "",
-  //   link: "",
-  // },
-    // {
-  //   id: crypto.randomUUID(),
-  //   name: "",
-  //   imgUrl: "",
-  //   link: "",
-  // },
+    {
+    id: crypto.randomUUID(),
+    name: "Toilettas Rains Large - Black",
+    imgUrl: "https://img01.ztat.net/article/spp-media-p1/7ca94e5578aa403599537fd913e6b533/3e1a874c4ee14f618d01b1b27c46b0ee.jpg?imwidth=1800&filter=packshot",
+    link: "https://www.zalando.nl/rains-wash-bag-large-unisex-toilettas-black-ri054h01k-q11.html",
+  },
+    {
+    id: crypto.randomUUID(),
+    name: "Custom Vinyl Plate Gift Card ",
+    imgUrl: "https://i.etsystatic.com/24452942/r/il/a50653/2465788740/il_fullxfull.2465788740_kimi.jpg",
+    link: "https://www.dubplate.be/nl/vinylplaat-bestellen/coupon",
+    favorite: true,
+  },
     // {
   //   id: crypto.randomUUID(),
   //   name: "",
