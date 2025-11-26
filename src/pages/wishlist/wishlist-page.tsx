@@ -5,23 +5,23 @@ import Card from "../../components/card";
 const presents: Array<WishlistItem> = [
   {
     id: crypto.randomUUID(),
-    name: "Reebok club c85 off-white (37)",
+    name: "Aroma Diffuser - Terrazzo Kubus",
     imgUrl:
-      "https://img01.ztat.net/article/spp-media-p1/ef65c53fdf5440faa396b40b459eb9a3/8ab2e49d54cb4bdb8d87b0f00df0502b.jpg?imwidth=1800",
-    link: "https://www.zalando.nl/reebok-classic-club-c-85-unisex-sneakers-laag-chalkclassic-cobalt-re015o0hk-a12.html",
+      "https://geurwolkje.nl/cdn/shop/files/aroma_diffuser_terrazzo_wit_living_green.png?v=1724143741&width=1500",
+    link: "https://geurwolkje.nl/collections/aroma-diffuser/products/terazzo-kubus-200-ml",
   },
   {
     id: crypto.randomUUID(),
-    name: "Verzwarings-knuffel Koala",
+    name: "Suitsupply Gift Card",
     imgUrl:
-      "https://lotgenootje.com/cdn/shop/files/10_af4e39ed-43e3-4189-84a6-f9e34c55b6b8.png?v=1752525251&width=1080",
-    link: "https://lotgenootje.com/products/verzwaringsknuffel-lotgenootje-koala-2kg",
+      "https://cdn.suitsupply.com/image/upload/fl_progressive,f_auto,b_rgb:FFFFFF,w_1440/suitsupply/campaigns/fw26/GiftCardLandingPageImage.jpg",
+    link: "https://suitsupply.com/en-us/giftcardlanding.html",
   },
   {
     id: crypto.randomUUID(),
-    name: "Lego Ewok",
+    name: "ARC'TERYS Muts",
     imgUrl: "https://media.s-bol.com/PymqLJjm0pGn/lOMklyl/541x840.jpg",
-    link: "https://www.bol.com/nl/nl/p/lego-star-wars-wicket-the-ewok-75430/9300000227400269/?cid=1761478455845-2410785216498&bltgh=kf-jwDrNnlsFK2mgwQpKPw.4_99.107.ProductImage",
+    link: "-	Arc’teryx Grotto Toque Black void",
   },
   // {
   //   id: crypto.randomUUID(),
