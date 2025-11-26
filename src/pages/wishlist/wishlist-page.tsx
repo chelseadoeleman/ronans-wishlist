@@ -5,7 +5,7 @@ import Card from "../../components/card";
 const presents: Array<WishlistItem> = [
   {
     id: crypto.randomUUID(),
-    name: "Aroma Diffuser - Terrazzo Kubus",
+    name: "(Blackfriday) Aroma Diffuser - Terrazzo Kubus",
     imgUrl:
       "https://geurwolkje.nl/cdn/shop/files/aroma_diffuser_terrazzo_wit_living_green.png?v=1724143741&width=1500",
     link: "https://geurwolkje.nl/collections/aroma-diffuser/products/terazzo-kubus-200-ml",
@@ -38,25 +38,25 @@ const presents: Array<WishlistItem> = [
   },
   {
     id: crypto.randomUUID(),
-    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Nubuck Jet Black maat: 41",
+    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Nubuck Jet Black, 41",
     imgUrl: "https://www.etq-amsterdam.com/cdn/shop/files/ETQ-Flatlay6Okt-20607_v1crob_1080x.png?v=1737629929",
     link: "https://www.etq-amsterdam.com/nl/products/lt-01-shades-nubuck-jet-black",
   },
   {
     id: crypto.randomUUID(),
-    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Suede Jet Black maat: 41",
+    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Suede Jet Black, 41",
     imgUrl: "https://www.etq-amsterdam.com/cdn/shop/files/ETQ_250115_Fitpics_05_1080x.png?v=1763498932",
     link: "https://www.etq-amsterdam.com/nl/products/lt-01-shades-suede-jet-black",
   },
   {
     id: crypto.randomUUID(),
-    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Suede Blueberry maat: 41",
+    name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Suede Blueberry, 41",
     imgUrl: "https://www.etq-amsterdam.com/cdn/shop/files/ETQ-Flatlay6Okt-20719_v1crob_eae1d304-3319-45e7-8afb-0e5d22df4e2f_1080x.png?v=1763211404",
     link: "https://www.etq-amsterdam.com/nl/products/lt-01-shades-suede-blueberry",
   },
   {
     id: crypto.randomUUID(),
-    name: "(Blackfriday Alleen in de korting :)) Scarosso Luciano Brown Suede maat: 40,5",
+    name: "(Blackfriday Alleen in de korting :)) Scarosso Luciano Brown Suede, 40,5",
     imgUrl: "https://www.scarosso.com/dw/image/v2/BGDG_PRD/on/demandware.static/-/Sites-17/default/dw0e33add8/images/zoom/LUCIANOLOAF_BROSUED_01.jpg?sw=1984&sh=2728&sm=fit",
     link: "https://www.scarosso.com/en-nl/men/shoes/loafers/luciano-brown-suede-LUCIANOLOAFBROSUED.html",
   },
