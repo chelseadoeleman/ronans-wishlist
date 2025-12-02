@@ -26,18 +26,6 @@ const presents: Array<WishlistItem> = [
   },
   {
     id: crypto.randomUUID(),
-    name: "Hoesje Iphone 16 PRO",
-    imgUrl: "https://image.gsmpunt.nl/product/210000/201714/lg/spigen-ultra-hybrid-apple-iphone-16-pro-hoesje-back-cover-transparant_8.webp",
-    link: "https://www.gsmpunt.nl/hoesjes/spigen-ultra-hybrid-apple-iphone-16-pro-hoesje-back-cover-transparant",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "Camera protector iPhone 16 PRO",
-    imgUrl: "https://image.gsmpunt.nl/product/230000/220710/lg/esr-armorite-iphone-17-pro-max-16-pro-max-camera-lens-protector-transparant_1.webp",
-    link: "https://www.gsmpunt.nl/screen-protectors/esr-armorite-iphone-17-pro-max-16-pro-max-camera-lens-protector-transparant",
-  },
-  {
-    id: crypto.randomUUID(),
     name: "(Blackfriday Alleen in de korting :)) ETQ LT01 Nubuck Jet Black, 41",
     imgUrl: "https://www.etq-amsterdam.com/cdn/shop/files/ETQ-Flatlay6Okt-20607_v1crob_1080x.png?v=1737629929",
     link: "https://www.etq-amsterdam.com/nl/products/lt-01-shades-nubuck-jet-black",
@@ -65,12 +53,6 @@ const presents: Array<WishlistItem> = [
     name: "Navy Merino Long Sleeve Polo (denk maat: M) Moet eventueel passen of het goed zit :)",
     imgUrl: "https://cdn.suitsupply.com/image/upload/b_rgb:efefef,bo_500px_solid_rgb:efefef,c_pad,w_2600/b_rgb:efefef,c_pad,dpr_1,w_1690,h_2338,f_auto,q_auto,fl_progressive/products/knitwear/default/SW1681_25.jpg",
     link: "https://suitsupply.com/en-nl/men/knitwear/navy-merino-long-sleeve-polo/SW1681.html",
-  },
-  {
-    id: crypto.randomUUID(),
-    name: "La Roche-Posay gezichtscreme",
-    imgUrl: "https://media.douglas.nl/medias/mhiOo3202936-0-dgl-NL.jpg?context=bWFzdGVyfGltYWdlc3w1NDE1NXxpbWFnZS9qcGVnfGFHUXlMMmhtTkM4Mk5EUXpNRGsxTXpJd01UWTVOQzl0YUdsUGJ6TXlNREk1TXpaZk1GOWtaMnd0VGt3dWFuQm58MDA0NzgwMDEzM2I2N2IyYWMxNjAxZDFmNTM0ODY5YWVjNTVjYjE4ZGU4NWI5N2NmM2MyZWE0YmJiNmEzMDQxMg&grid=true&imPolicy=grayScaled&imdensity=1&imwidth=775",
-    link: "https://www.douglas.nl/nl/p/5010955375",
   },
     {
     id: crypto.randomUUID(),
