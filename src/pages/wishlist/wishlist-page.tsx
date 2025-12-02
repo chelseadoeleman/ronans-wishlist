@@ -91,6 +91,18 @@ const presents: Array<WishlistItem> = [
     imgUrl: "https://media.s-bol.com/q9xq93J9R1Ek/zrkzgZ/550x482.jpg",
     link: "https://www.bol.com/nl/nl/p/philips-hue-standaardlamp-e27-lichtbron-wit-en-gekleurd-licht-1-pack-1100lm-bluetooth/9300000046063484/?cid=1764173879053-8722908439472",
   },
+  {
+    id: crypto.randomUUID(),
+    name: "UGG Tasman II Donkerbruin, 41",
+    imgUrl: "https://asset.snipes.com/images/f_auto,q_80,d_fallback-sni.png/b_rgb:f8f8f8,c_pad,w_680,h_680/dpr_2.0/02488069_1/ugg-tasman-ii-bruin-48184-1",
+    link: "https://www.snipes.com/nl-nl/p/ugg-tasman-ii-bruin-48184/216147",
+  },
+    {
+    id: crypto.randomUUID(),
+    name: "A Cold Wall Hoodie zwart, S",
+    imgUrl: "https://cdn.webshopapp.com/shops/41685/files/432973304/essential-hoodie-zwart.jpg",
+    link: "https://www.beachim.nl/nl/a-cold-wall-essential-hoodie-zwart-144699308.html",
+  },
     // {
   //   id: crypto.randomUUID(),
   //   name: "",
