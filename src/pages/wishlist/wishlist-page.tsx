@@ -3,6 +3,14 @@ import Snowfall from "react-snowfall";
 import Card from "../../components/card";
 
 const presents: Array<WishlistItem> = [
+    {
+    id: crypto.randomUUID(),
+    name: "Bois imperial - Essentials parfum 100 ml",
+    imgUrl:
+      "https://cdn-1.debijenkorf.nl/web_detail_2x/essential-parfums-bois-imperial-eau-de-parfum/?reference=060/630/0606309000426100_pro_flt_frt_01_1108_1528_1724234284.jpg",
+    link: "https://www.debijenkorf.nl/d/essential-parfums--6063090004-606309000426100",
+    favorite: true
+  },
   {
     id: crypto.randomUUID(),
     name: "(Blackfriday) Aroma Diffuser - Terrazzo Kubus",
