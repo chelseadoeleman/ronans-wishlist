@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.608c675e.css",
+    "main.js": "/static/js/main.acc09847.js",
+    "static/js/764.61adc0e8.chunk.js": "/static/js/764.61adc0e8.chunk.js",
+    "static/css/356.2c421072.chunk.css": "/static/css/356.2c421072.chunk.css",
+    "static/js/356.7f7c103e.chunk.js": "/static/js/356.7f7c103e.chunk.js",
+    "static/js/733.654759c2.chunk.js": "/static/js/733.654759c2.chunk.js",
+    "static/js/91.18245e8d.chunk.js": "/static/js/91.18245e8d.chunk.js",
+    "static/media/SpaceGrotesk.ttf": "/static/media/SpaceGrotesk.f0f1fce4a59e46198487.ttf",
+    "static/media/Silkscreen-Bold.ttf": "/static/media/Silkscreen-Bold.6f574979646b2abcaf2b.ttf",
+    "static/media/hat-santa.svg": "/static/media/hat-santa.96c920e144f7874bc9e69687e7bbdb90.svg",
+    "index.html": "/index.html",
+    "static/media/gift.svg": "/static/media/gift.e23af1516c723c254e12e58ab9fe3d71.svg",
+    "main.608c675e.css.map": "/static/css/main.608c675e.css.map",
+    "main.acc09847.js.map": "/static/js/main.acc09847.js.map",
+    "764.61adc0e8.chunk.js.map": "/static/js/764.61adc0e8.chunk.js.map",
+    "356.2c421072.chunk.css.map": "/static/css/356.2c421072.chunk.css.map",
+    "356.7f7c103e.chunk.js.map": "/static/js/356.7f7c103e.chunk.js.map",
+    "733.654759c2.chunk.js.map": "/static/js/733.654759c2.chunk.js.map",
+    "91.18245e8d.chunk.js.map": "/static/js/91.18245e8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608c675e.css",
+    "static/js/main.acc09847.js"
+  ]
+}
